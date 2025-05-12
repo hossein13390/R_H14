@@ -255,4 +255,4 @@ AddButton(Main, {
   end
 })
 
-local Main = MakeTab({Name = "قريبا سكربتات لمابات اكثر"})
+
